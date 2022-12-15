@@ -115,7 +115,7 @@ const Header = ({ onSidebarOpen }) => {
                                         },
                                     }}
                                 >
-                                    Cryptocurrency Dashboard
+                                    Zhuma Exchange
                                 </Typography>
                             </IconButton>
                         </Box>

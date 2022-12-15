@@ -26,7 +26,7 @@ const Dashboard = () => {
     return (
         <React.Fragment>
             <Helmet>
-                <title>Cryptocurrency Dashboard</title>
+                <title>Zhuma Exchange</title>
             </Helmet>
             <Box 
                 sx={{ 

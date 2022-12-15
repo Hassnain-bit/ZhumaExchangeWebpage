@@ -34,8 +34,8 @@ const App = () => {
     return (
         <HelmetProvider>
             <Helmet 
-                titleTemplate="%s | Bob's Programming Academy"
-                defaultTitle="Bob's Programming Academy"
+                titleTemplate="%s"
+                defaultTitle="Zhuma Exchange"
             />
             <ColorModeContext.Provider value={colorMode}>
                 <ThemeProvider theme={customTheme[mode]}>
